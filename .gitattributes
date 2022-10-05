@@ -32,10 +32,16 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# BitBake source file
-*.bb linguist-detectable=true
-*.bb linguist-documentation=false
-*.bb linguist-language=BitBake
+# Kotlin source file
+*.kt linguist-detectable=true
+*.kt linguist-documentation=false
+*.kt linguist-language=Kotlin
+*.ktm linguist-detectable=true
+*.ktm linguist-documentation=false
+*.ktm linguist-language=Kotlin
+*.kts linguist-detectable=true
+*.kts linguist-documentation=false
+*.kts linguist-language=Kotlin
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -173,7 +179,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 2 (2022, Tuesday, August 30th at 2:34 pm PST)
-# Line count (including blank lines and compiler line): 180
+# File type: gitattributes file (*.gitattributes)
+# File version: 3 (2022, Wednesday, October 5th at 2:02 pm PST)
+# Line count (including blank lines and compiler line): 186
 # End of script
